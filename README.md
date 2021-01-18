@@ -1,6 +1,6 @@
 # BrawlStars
 A first open source Python 3.8 Brawl Stars Server for version 27!
-![ScreenShot](https://drive.google.com/file/d/10XzY8pfdYOLsRhaCD7zaS1xm59yBfkv0/view?usp=drivesdk) 
+![ScreenShot](https://cdn.discordapp.com/attachments/800750913891467309/800750985889972254/Screenshot_2021-01-18-18-34-04-026_com.brawl.server.jpg) 
 
 ## Client
 To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://drive.google.com/file/d/10Ovya5fAx6ksflLfKi1JVZG0AjjXF2Q9/view?usp=drivesdk).
