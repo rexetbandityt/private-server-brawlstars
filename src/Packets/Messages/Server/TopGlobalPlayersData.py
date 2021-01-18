@@ -29,7 +29,7 @@ class TopGlobalPlayersData(Writer):
         	self.writeVint(1)
         
         	self.writeString()
-        	self.writeString("Mr Vitalik")
+        	self.writeString("BANDIT")
         
         	self.writeVint(1)
         	self.writeVint(28000000 + self.player.profileIcon)
@@ -47,7 +47,7 @@ class TopGlobalPlayersData(Writer):
         	self.writeVint(1)
         
         	self.writeString()
-        	self.writeString("Mr Vitalik")
+        	self.writeString("BANDIT")
         
         	self.writeVint(1)
         	self.writeVint(28000000 + self.player.profileIcon)
@@ -64,7 +64,7 @@ class TopGlobalPlayersData(Writer):
        		self.writeVint(99999)       
         	self.writeVint(2)
         
-        	self.writeString("ObjectTeam")
+        	self.writeString("BANDIT STUDIO")
         	self.writeVint(1)
         
         	self.writeVint(8)
