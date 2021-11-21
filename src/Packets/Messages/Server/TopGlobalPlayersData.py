@@ -64,7 +64,7 @@ class TopGlobalPlayersData(Writer):
        		self.writeVint(99999)       
         	self.writeVint(2)
         
-        	self.writeString("B@NDIT Team)
+        	self.writeString("B@NDIT Team")
         	self.writeVint(1)
         
         	self.writeVint(8)
